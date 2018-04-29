@@ -21,5 +21,6 @@ namespace aspnetcoregraphql
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
                 .Build();
+//Maha Comment
     }
 }
